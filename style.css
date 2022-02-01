@@ -1,11 +1,11 @@
 header {
-    background-image: url(../html/coffee_shop0.jpg);
+    background-image: url(coffee_shop0.jpg);
     width: 100%;
     height: 100%;
 }
 
 div#menu {
-    background-image: url(../html/coffee_shop4.jpg);
+    background-image: url(coffee_shop4.jpg);
     width: 100%;
     height: 100%;
     opacity: 90%;
